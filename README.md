@@ -9,3 +9,7 @@ This is a collection of my projects practicing HTML and CSS effects for a websit
     
 * # basic-CSS-demo
      *  Demonstrating an animation and hover effect with CSS. 
+     
+* # Index
+     *  A sample one page website with hover effects, a navbar, image galary, and contact section.
+
